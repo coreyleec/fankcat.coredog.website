@@ -1,0 +1,77 @@
+body, html {
+  height: 1000rem;
+  width: 1000rem;
+  background-color: yellow;
+}
+
+button, input {
+  border-radius: 25px;
+}
+
+
+
+/* body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+} */
+
+* {
+font-family: futura;
+}
+
+/* div.figure img,
+div.figure div.caption {
+    width: 100%;
+} */
+.draggable {
+    text-align: left;
+    border-radius: 25px;
+    background-color:white;
+    border: rgb(0, 0, 0) solid 1px;
+    padding: 1rem;
+    /* width: fit-content; */
+    width: 376px;
+    height: auto;
+    display: inline-flex;
+    margin: 1rem 2rem;
+    box-shadow: 3px 4px black;
+    float: left
+    /* word-wrap: break-word */
+    
+  }
+  .draggable {
+    display: table;
+    /* width: 1px; */
+  }
+
+/* h2 {
+  width: fit-content;
+} */
+
+ul {
+    list-style-type: none;
+}
+
+ li {
+  text-align: left;
+  padding: .5rem;
+  /* align-; */
+
+  border-radius: 25px;
+  background-color:white;
+  border: rgb(0, 0, 0) solid 1px;
+  
+ }
+  
+  .postImg {
+    justify-self: center;
+    height: 12rem;
+    width: auto;
+  }
+
+
+
+  

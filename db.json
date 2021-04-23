@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "name": "Girl turns to plastic",
+      "post": "doctors working on a cure",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eIaWvY0WL._AC_SY879_.jpg",
+      "likes": 23,
+      "dislikes": -4,
+      "comments": [
+        "how's it going",
+        "yo",
+        "oh no!"
+      ],
+      "id": 5,
+      "Dislikes": null
+    },
+    {
+      "name": "Shoes get covid",
+      "post": "Scientists working on vaccine",
+      "image": "https://i.blogs.es/8f4bcb/toallin/450_1000.jpg",
+      "likes": 420,
+      "dislikes": -2,
+      "comments": [
+        "hey",
+        "hi",
+        "this works now"
+      ],
+      "id": 6
+    },
+    {
+      "name": "NYC pizza turns teenagers into mutant turtle!!!",
+      "post": "Pizza stocks are up!",
+      "image": "https://movie-fanatic-res.cloudinary.com/iu/s--q1tIYsBk--/f_auto,q_auto/v1405096165/teenage-mutant-ninja-turtles-pizza",
+      "likes": 1000,
+      "dislikes": 0,
+      "comments": [
+        "let's get pizza"
+      ],
+      "id": 7
+    },
+    {
+      "name": "School Girls terrorize the streets of tokyo",
+      "post": "US sending national guard",
+      "image": "https://1.bp.blogspot.com/-YHtBrQSz77w/X1icjNjxz_I/AAAAAAAAZJU/uOzyiRvzGa8zcm0fx5RPCY7pMTSfnArvgCLcBGAsYHQ/s1600/sailor-moon.jpg",
+      "likes": 21,
+      "dislikes": 0,
+      "comments": [],
+      "id": 8
+    }
+  ]
+}
